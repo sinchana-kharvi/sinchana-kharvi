@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hi 👋, I'm Sinchana Kharvi
 
-<!--
-**sinchana-kharvi/sinchana-kharvi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👩‍💻 Computer Science Engineering Student | Creative Learner | Future Developer
 
-Here are some ideas to get you started:
+I'm a 2nd-year Computer Science Engineering student who loves learning new technologies and turning ideas into projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently learning **C, Python, DSA & Web Development**  
+🎨 I love **drawing, graphic design & creative work**  
+💻 Interested in **Frontend / Full-Stack Development**  
+🎬 Exploring **Video Editing & Game Development**  
+🐟 Interested in building technology-based solutions related to **fishing and rivers**  
+🚀 Currently working on improving my coding and problem-solving skills
+
+---
+
+## 🛠️ Skills & Technologies
+
+### Programming
+- C
+- Python
+- JavaScript
+
+### Web Development
+- HTML
+- CSS
+- JavaScript
+- VS Code
+
+### Currently Exploring
+- Data Structures & Algorithms
+- Git & GitHub
+- Full-Stack Development
+- Game Development
+- Video Editing
+- UI/Graphic Design
+
+---
+
+## 📚 What I'm Learning
+
+```text
+C Programming          ███████░░░  Learning
+Python                 ██████░░░░  Learning
+HTML & CSS             █████████░  Comfortable
+JavaScript             ███████░░░  Learning
+DSA                    ████░░░░░░  Beginner
+Git & GitHub            ████░░░░░░  Learning
+Full-Stack Development  ██░░░░░░░░  Exploring
+Game Development        ██░░░░░░░░  Exploring
